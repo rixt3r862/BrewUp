@@ -5,3 +5,5 @@ brew "fcrackzip"
 brew "lastpass-cli"
 brew "mas"
 brew "openssl@3"
+mas "Disk Doctor", id: 455970963
+mas "FileBot", id: 905384638
