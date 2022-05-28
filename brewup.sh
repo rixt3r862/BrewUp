@@ -54,4 +54,4 @@ git add . 2>&1
 git commit -m "${DATE}_update" 2>&1
 git push 2>&1
 
-echo "${green}==> All Updates & Cleanups Finished${reset}"
+echo "${green}==> ${blue}All Updates & Cleanups Finished${reset}"
