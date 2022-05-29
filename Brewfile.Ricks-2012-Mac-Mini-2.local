@@ -1,9 +1,11 @@
 tap "homebrew/bundle"
+tap "homebrew/cask"
 tap "homebrew/core"
 brew "coreutils"
 brew "fcrackzip"
 brew "lastpass-cli"
 brew "mas"
 brew "openssl@3"
+cask "cpuinfo"
 mas "Disk Doctor", id: 455970963
 mas "FileBot", id: 905384638
