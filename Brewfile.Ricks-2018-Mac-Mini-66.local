@@ -17,6 +17,7 @@ brew "mp3splt"
 brew "openssl@3"
 brew "php", restart_service: true
 brew "pkg-config"
+cask "cpuinfo"
 cask "handbrake"
 cask "sqlitestudio"
 mas "Affinity Designer", id: 824171161
