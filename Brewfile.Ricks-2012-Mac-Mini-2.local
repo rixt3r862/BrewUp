@@ -8,5 +8,6 @@ brew "mas"
 brew "node"
 brew "openssl@3"
 cask "cpuinfo"
+cask "handbrake"
 mas "Disk Doctor", id: 455970963
 mas "FileBot", id: 905384638
