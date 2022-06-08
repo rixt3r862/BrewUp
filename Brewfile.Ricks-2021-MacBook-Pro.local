@@ -39,3 +39,28 @@ cask "sdformatter"
 cask "syncthing"
 cask "tor-browser"
 cask "visual-studio-code"
+mas "Affinity Designer", id: 824171161
+mas "Affinity Photo", id: 824183456
+mas "Compressor", id: 424390742
+mas "Controller", id: 1198176727
+mas "CorelDRAW", id: 1447605203
+mas "FileBot", id: 905384638
+mas "Final Cut Pro", id: 424389933
+mas "Fishdom", id: 1046482500
+mas "Gardenscapes", id: 1193564816
+mas "Homescapes", id: 1292510839
+mas "iMovie", id: 408981434
+mas "InstaCal", id: 1247292524
+mas "Logic Pro", id: 634148309
+mas "MainStage", id: 634159523
+mas "Messenger", id: 1480068668
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "Motion", id: 434290957
+mas "OneDrive", id: 823766827
+mas "Pixelmator Pro", id: 1289583905
+mas "StockSpy Realtime Stocks Quote", id: 876529098
+mas "Xcode", id: 497799835
