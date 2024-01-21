@@ -2,6 +2,7 @@ tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
 brew "boost"
+brew "openssl@3"
 brew "python@3.10"
 brew "coreutils"
 brew "openldap"
@@ -9,9 +10,6 @@ brew "curl"
 brew "fcrackzip"
 brew "lastpass-cli"
 brew "mas"
-brew "node"
-brew "openssl@3"
+brew "node", link: false
 cask "cpuinfo"
 cask "handbrake"
-mas "Disk Doctor", id: 455970963
-mas "FileBot", id: 905384638
