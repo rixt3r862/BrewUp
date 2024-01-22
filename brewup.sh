@@ -44,7 +44,7 @@ brew update 2>&1
 brew outdated 2>&1
 brew upgrade 2>&1
 brew cleanup -s 2>&1
-echo "${green}==>${reset} Finished ${blue}Complete${reset}"
+echo "${green}==>${reset} Updates ${blue}Complete${reset}"
 
 ## Creating Dump File with hostname
 brew bundle dump --force --file="./${brewFileName}"
