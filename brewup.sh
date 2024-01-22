@@ -36,7 +36,7 @@ git pull 2>&1
 echo "${yellow}==>${reset} Running Brew Diagnostic..."
 brew doctor 2>&1
 brew missing 2>&1
-echo -e "${green}==>${reset} Brew Diagnostic Finished."
+echo -e "${green}==>${reset} Brew Diagnostic ${blue}Complete${reset}."
 
 ## Brew packages update and cleanup
 echo "${yellow}==>${reset} Running Updates..."
@@ -44,7 +44,7 @@ brew update 2>&1
 brew outdated 2>&1
 brew upgrade 2>&1
 brew cleanup -s 2>&1
-echo "${green}==>${reset} Finished Updates"
+echo "${green}==>${reset} Finished ${blue}Complete${reset}"
 
 ## Creating Dump File with hostname
 brew bundle dump --force --file="./${brewFileName}"
