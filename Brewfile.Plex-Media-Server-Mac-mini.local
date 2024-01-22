@@ -12,6 +12,7 @@ brew "lastpass-cli"
 brew "mas"
 brew "node", link: false
 cask "cpuinfo"
+cask "git-credential-manager"
 cask "handbrake"
 mas "Disk Doctor", id: 455970963
 mas "FileBot", id: 905384638
