@@ -12,7 +12,3 @@ brew "python@3.11"
 cask "cpuinfo"
 cask "git-credential-manager"
 cask "handbrake"
-mas "Disk Doctor", id: 455970963
-mas "FileBot", id: 905384638
-mas "Moom", id: 419330170
-mas "SRT Edit Pro", id: 876201241
