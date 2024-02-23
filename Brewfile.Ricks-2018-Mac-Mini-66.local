@@ -17,6 +17,81 @@ brew "moreutils"
 brew "mp3splt"
 brew "php", restart_service: true
 brew "pkg-config"
+cask "brewlet"
 cask "cpuinfo"
 cask "handbrake"
 cask "sqlitestudio"
+mas "1 Click DVD Creator", id: 875804311
+mas "Affinity Designer", id: 824171161
+mas "Affinity Photo", id: 824183456
+mas "BeFunky Express", id: 1042457604
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Brother ScannerApp", id: 912659472
+mas "ChordPro Buddy", id: 434955766
+mas "Compare & Sync Folders", id: 1001460601
+mas "CompareMerge2", id: 1459748650
+mas "Compressor", id: 424390742
+mas "Countdown Timer Plus", id: 1150771803
+mas "Curve", id: 1219074514
+mas "Disk Doctor", id: 455970963
+mas "DVD Burner", id: 903317493
+mas "FileBot", id: 905384638
+mas "Final Cut Pro", id: 424389933
+mas "Fishdom", id: 1046482500
+mas "FLAC MP3 Converter", id: 982124349
+mas "GarageBand", id: 682658836
+mas "Gardenscapes", id: 1193564816
+mas "HomePass", id: 1330266650
+mas "Homescapes", id: 1292510839
+mas "iMovie", id: 408981434
+mas "InstaCal", id: 1247292524
+mas "Key Codes", id: 414568915
+mas "Keynote", id: 409183694
+mas "Kindle Classic", id: 405399194
+mas "LastPass", id: 926036361
+mas "Logic Pro", id: 634148309
+mas "MainStage", id: 634159523
+mas "Market Ticker", id: 1553588420
+mas "Messenger", id: 1480068668
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Word", id: 462054704
+mas "Moom", id: 419330170
+mas "Motion", id: 434290957
+mas "Mp3tag", id: 1532597159
+mas "Music Tag Edit", id: 999242964
+mas "NexiGo Webcam Settings", id: 1568831522
+mas "Noiseless", id: 969978718
+mas "Notability", id: 736189492
+mas "Numbers", id: 409203825
+mas "OneDrive", id: 823766827
+mas "Overview and Quick Start Guide", id: 446934377
+mas "Pages", id: 409201541
+mas "PDF Professional", id: 1071044671
+mas "PDF Professional Suite", id: 725408432
+mas "PDF Reader Pro Lite", id: 919472673
+mas "PDF Viewer", id: 1475494784
+mas "Picture Collage Maker", id: 495631432
+mas "Pixelmator Pro", id: 1289583905
+mas "Posterino 3", id: 945991770
+mas "QR Factory", id: 1609285899
+mas "Quick File Renamer", id: 420107228
+mas "ScoreCloud Studio", id: 872171928
+mas "Shapes for Pixelmator Pro", id: 1104905514
+mas "Shazam", id: 897118787
+mas "Snapheal", id: 480623975
+mas "Space Bricks", id: 1519981230
+mas "Speedtest", id: 1153157709
+mas "SRT Edit Pro", id: 876201241
+mas "StockSpy Realtime Stocks Quote", id: 876529098
+mas "Super Video Converter Pro", id: 590220116
+mas "Tag Editor Lite", id: 984278082
+mas "The Unarchiver", id: 425424353
+mas "To MP3 Converter Lite", id: 983472324
+mas "Turnover", id: 426957860
+mas "Twitter", id: 409789998
+mas "Twitter", id: 1482454543
+mas "Ultimate Guitar - Chords & Tabs", id: 1479045460
+mas "Universal Translator", id: 420857081
+mas "Weather Dock", id: 886290397
+mas "WhatsApp", id: 1147396723
+mas "Xcode", id: 497799835
