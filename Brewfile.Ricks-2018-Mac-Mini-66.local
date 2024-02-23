@@ -17,6 +17,7 @@ brew "php", restart_service: true
 brew "pkg-config"
 cask "brewlet"
 cask "cpuinfo"
+cask "git-credential-manager"
 cask "handbrake"
 cask "sqlitestudio"
 mas "1 Click DVD Creator", id: 875804311
