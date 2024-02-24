@@ -13,6 +13,7 @@ brew "libmp3splt"
 brew "mas"
 brew "moreutils"
 brew "mp3splt"
+brew "node"
 brew "php", restart_service: true
 brew "pkg-config"
 cask "brewlet"
