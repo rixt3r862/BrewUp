@@ -1,4 +1,6 @@
 tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
 brew "coreutils"
 brew "openssl@3"
 brew "openldap"
