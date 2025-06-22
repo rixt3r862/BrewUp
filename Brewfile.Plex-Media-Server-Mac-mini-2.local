@@ -1,19 +1,4 @@
-tap "homebrew/bundle"
-brew "coreutils"
-brew "openssl@3"
-brew "curl"
-brew "fcrackzip"
-brew "lastpass-cli"
 brew "mas"
-brew "nvm"
-brew "openldap"
-brew "pyenv"
-brew "python@3.10"
-brew "python@3.11"
-brew "python@3.9"
-cask "cpuinfo"
-cask "git-credential-manager"
-cask "handbrake"
 mas "Disk Doctor", id: 455970963
 mas "FileBot", id: 905384638
 mas "SRT Edit Pro", id: 876201241
